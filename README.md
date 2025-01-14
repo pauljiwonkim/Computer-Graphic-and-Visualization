@@ -1,4 +1,6 @@
 # Computer-Graphic-and-Visualization
+# CS 330 Computational Graphics and Visualization  
+
 
 
 1. How do I approach designing software?
